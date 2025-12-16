@@ -1,0 +1,8 @@
+node_modules/
+target/
+.mvn/
+.idea/
+.vscode/
+*.class
+*.jar
+.DS_Store
